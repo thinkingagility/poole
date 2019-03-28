@@ -5,7 +5,7 @@ title: About
 
 > "Life’s a journey..."
 
-<img src = "/images/thinkingagility.png" width=100 height=200>
+<img src = "images/thinkingagility.png" width=100 height=200>
 
 I am a full-time scrum master and full-time father and husband. I’m a part-time blogger, part-time reviewer, and I'm a productivity freak as well. I also love learning and have a strong belief in the principle of lifelong learning.
 
