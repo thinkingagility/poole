@@ -3,7 +3,9 @@ layout: page
 title: About
 ---
 
-> “Life’s a journey...”
+> "Life’s a journey..."
+
+![](/images/thinkingagility.png)
 
 I am a full-time scrum master and full-time father and husband. I’m a part-time blogger, part-time reviewer, and I'm a productivity freak as well. I also love learning and have a strong belief in the principle of lifelong learning.
 
